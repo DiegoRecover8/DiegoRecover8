@@ -1,32 +1,24 @@
-### Hi, I'm Diego 👋
+# Hi, I'm Diego
 
-Data Science & AI student at the Polytechnic University of Madrid. I build open-source tools around AI-assisted learning and quantitative finance.
+I'm a Data Science and Artificial Intelligence student at Universidad Politécnica de Madrid (UPM). I build open-source tools for AI-assisted learning and quantitative finance.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Featured projects
 
-#### 📚 [Learn Everything](https://github.com/DiegoRecover8/learn-everything)
+### [Learn Everything](https://github.com/DiegoRecover8/learn-everything)
 
-An AI exam tutor plugin for Claude Code. It turns your own notes (PDFs, slides, photos) into a study roadmap, quizzes, spaced repetition and mock exams.
+A Claude Code plugin that turns your notes into a study plan with quizzes, spaced repetition, and mock exams.
 
-```bash
-claude plugin marketplace add DiegoRecover8/learn-everything
-```
+[Watch the demo](https://github.com/DiegoRecover8/learn-everything#readme)
 
-</td>
-<td width="50%" valign="top">
+### [Value Investing Screener](https://github.com/DiegoRecover8/screener-value-investing)
 
-#### 📈 [Value Investing Screener](https://github.com/DiegoRecover8/screener-value-investing)
+A reproducible Python screener inspired by the Magic Formula, with auditable fundamental metrics, versioned stock universes, and automated weekly runs.
 
-A reproducible research pipeline for fundamental equity screening, inspired by the Magic Formula. Auditable metrics, versioned universes and weekly automated runs.
+[Open the Streamlit app](https://screener-value-investing-hhvhyoju8ojimho8qlft6l.streamlit.app/)
 
-[**Live demo →**](https://screener-value-investing-hhvhyoju8ojimho8qlft6l.streamlit.app)
+## Other projects
 
-</td>
-</tr>
-</table>
+- [Food.com Recommender Systems](https://github.com/DiegoRecover8/Food.com-Recommender-Systems)
+- [Email Network Analysis](https://github.com/DiegoRecover8/social-computing-email-network)
 
-**Other projects:** [Food.com Recommender Systems](https://github.com/DiegoRecover8/Food.com-Recommender-Systems) · [Email Network Analysis](https://github.com/DiegoRecover8/social-computing-email-network)
-
-**Stack:** Python · pandas · Streamlit · Jupyter · TypeScript · GitHub Actions · Claude Code
+**Tools** · Python, pandas, Streamlit, Jupyter, TypeScript, GitHub Actions, Claude Code

@@ -29,4 +29,12 @@ A reproducible research pipeline for fundamental equity screening, inspired by t
 
 **Other projects:** [Food.com Recommender Systems](https://github.com/DiegoRecover8/Food.com-Recommender-Systems) · [Email Network Analysis](https://github.com/DiegoRecover8/social-computing-email-network)
 
-**Stack:** Python · pandas · Streamlit · Jupyter · TypeScript · GitHub Actions · Claude Code
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
